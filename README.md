@@ -1,2 +1,2 @@
-# Jens-Klooster.github.io
+# klooster.github.io
 Personal website
